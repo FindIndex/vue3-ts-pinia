@@ -1,6 +1,6 @@
 <template>
     <div>
-        搜索
+        搜索-xxxx-cccc
     </div>
 </template>
 
